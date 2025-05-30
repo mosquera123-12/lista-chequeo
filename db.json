@@ -1,0 +1,13 @@
+{
+  "listas": [
+    {
+      "id": 1,
+      "nombre_proyecto": "Proyecto Integrador",
+      "nombre_estudiante": "Estudiante Prueba",
+      "items": [
+        { "nombre": "Diseño de interfaz", "completado": false },
+        { "nombre": "Funcionalidad básica", "completado": true }
+      ]
+    }
+  ]
+}
